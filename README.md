@@ -1,6 +1,12 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
 
 ## Implementation
+
+ADDED:
+original music
+end screen
+2 original enemy sprite designs
+1 large level
 
 ## References
 
@@ -14,4 +20,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Nick Skinner
